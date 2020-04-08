@@ -1,0 +1,131 @@
+﻿*
+{
+ color:white;
+ margin:0px;
+ padding:0px;
+ font-family:Century Gothic, Georgia;
+ }
+header
+{
+ background-color:lightblue;
+ height:115px;
+ width:1000px;
+ border-bottom:3px dashed lightgray;
+ font-size:300%;
+ 
+}
+
+body
+{
+ background-color:black;
+}
+
+#contenido
+{
+width:1000px;
+margin: 0px auto;
+border: 1.5px dashed lightblue;
+}
+
+nav ul li
+{
+ list-style:none;
+ float:left;
+ margin:15px;
+ line-height:20px;
+ 
+}
+
+nav
+{
+ background:lightgray;
+ height:65px;
+ 
+ padding:10px;
+
+}
+.limpiar
+{
+ clear:both;
+}
+
+#medio
+{
+ float:right;
+ width:70%;
+ min-height:853px;
+ padding:35px;
+ border-left:2px dashed purple;
+ border-top:2px dashed purple;
+ border-bottom:2px dashed lightblue;
+}
+.articulo
+{
+ margin-top:12px;
+ margin-bottom:12px;
+ padding-bottom:8px;
+}
+section article h2
+{
+ 
+ border-bottom: 2px solid white;
+ padding-bottom:6px;
+}
+section article p
+{
+ padding-top:6px;
+}
+
+section article img
+{
+padding-top:25px;
+padding-left:115px;
+
+}
+
+nav ul li a
+{
+ font-size:150%;
+ 
+}
+
+aside
+{
+ padding-top:50px;
+ float:left;
+ padding-left:20px;
+ padding-right:20px;
+ background:purple;
+ width:18.8%;
+ min-height:875px;
+ border-bottom:2px dashed lightblue;
+}
+
+aside article h2
+{
+padding-bottom:10px;
+
+}
+
+aside article h3
+{
+padding-top:6px;
+padding-bottom:6px;
+border-bottom:2px solid violet;
+}
+aside article p
+{
+padding-top:6px;
+padding-bottom:25px;
+}
+footer
+{
+ background:lightblue;
+ line-height:50px;
+ height:100px;
+ text-align:center;
+}
+footer a
+{
+ font-size:155%;
+}
